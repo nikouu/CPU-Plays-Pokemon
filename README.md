@@ -2,7 +2,7 @@
 
 A fun little proof of concept for [mGBA-http](https://github.com/nikouu/mGBA-http) where it takes in your CPU usage as what button to press. 
 
-https://github.com/nikouu/CPU-Plays-Pokemon/assets/983351/131ef1bb-1faf-4561-ad57-7fa482602e1c
+https://github.com/nikouu/CPU-Plays-Pokemon/assets/983351/3ca74ae2-1c7c-41e4-a104-7cd4c9fa328c
 
 _Video is sped up._
 
@@ -30,4 +30,5 @@ Every second:
 
 The following is a whole hour of "playing" and "progress":
 
-https://github.com/nikouu/CPU-Plays-Pokemon/assets/983351/fd20772f-a8d0-4de0-ac47-2375ba6562d4
+
+https://github.com/nikouu/CPU-Plays-Pokemon/assets/983351/8ae1b4fe-04d7-4f05-8ae6-890ae5ef0213
