@@ -43,9 +43,7 @@ while (await timer.WaitForNextTickAsync())
     await httpClient.PostAsync($"http://localhost:5000/mgba-http/button?key={(KeysEnum)keyInt}", null);
 
     //await httpClient.PostAsJsonAsync($"http://localhost:5000/mgba-http/button", (KeysEnum)keyInt);
-
 }
-
 
 enum KeysEnum
 {

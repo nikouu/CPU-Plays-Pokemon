@@ -18,6 +18,7 @@ Every second:
 - The maths for the value to modulo is a mixture of both the whole and fraction because:
   - If just the whole value is used, then there may not be enough variation in CPU usage to modulo for all the keys
   - If it's just the fraction, the trailing zero is cut off, meaning we never get the A key
+- [`PerformanceCounter`](https://learn.microsoft.com/en-us/dotnet/api/system.diagnostics.performancecounter?view=dotnet-plat-ext-8.0) is now a NuGet package
 
 ## Timelapse
 
