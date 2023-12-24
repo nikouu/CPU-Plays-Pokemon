@@ -13,6 +13,12 @@ Every second:
 2. Some maths then the usage is mapped to a key
 3. The key is sent to mGBA-http and onwards to mGBA
 
+## How to run
+1. Have mGBA up and running
+1. Get and setup [mGBA-http](https://github.com/nikouu/mGBA-http)
+1. Get this project
+2. Run this project (either in Visual Studio/your IDE of choice, or with `dotnet run`)
+
 ## Interesting bits
 - Uses the new [`PeriodicTimer`](https://learn.microsoft.com/en-us/dotnet/api/system.threading.periodictimer?view=net-8.0) object
 - The maths for the value to modulo is a mixture of both the whole and fraction because:
